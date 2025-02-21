@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Bruno Baltazar Queiros
+# 👩🏻‍💻 Bruno Baltazar
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno Baltazar, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou estudando programação em Back-end e Front-end através do curso DevQuest.
+Me chamo Bruno Baltazar Queiros, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou estudando programação em Back-end e Front-end através do curso DevQuest.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -40,23 +40,3 @@ Me chamo Bruno Baltazar, tenho 26 anos e sou natural de Minas Gerais. Atualmente
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

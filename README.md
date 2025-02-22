@@ -39,4 +39,9 @@ Me chamo Bruno Baltazar Queiros, tenho 26 anos e sou natural de Minas Gerais. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <br/>
+
+<p align="left">
+    <a href="https://www.instagram.com/brun0.balt">
+    </a>
+</p>
 <br/>

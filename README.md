@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Bruno Baltazar
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web FrontEnd`**
 
-Me chamo Bruno Baltazar Queiros, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou estudando programação em Back-end e Front-end através do curso DevQuest.
+Me chamo Bruno Baltazar Queiros, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou estudando programação em Front-end através do curso DevQuest.
 
 ### 🤖 Linguagens e Tecnologias
 

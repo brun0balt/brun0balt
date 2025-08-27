@@ -36,7 +36,7 @@ Me chamo Bruno, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou e
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <br/>

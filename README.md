@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-![snake.gif]<img src="https://raw.githubusercontent.com/brun0balt/brun0balt/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brun0balt/brun0balt/output/snake.svg" alt="Snake animation" />
 
 ###

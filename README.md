@@ -1,4 +1,4 @@
-<h2 align="left">👋Oi, me chamo Bruno, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou estudando programação em Front-end através do curso DevQuest.</h2>
+<p align="left">👋Oi, me chamo Bruno, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou estudando programação em Front-end através do curso DevQuest.</p>
 
 ###
 

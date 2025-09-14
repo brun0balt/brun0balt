@@ -30,6 +30,6 @@
 
 ###
 
-![snake gif](https://github.com/brun0balt/brun0balt/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/brun0balt/brun0balt/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###

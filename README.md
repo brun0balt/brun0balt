@@ -28,10 +28,12 @@
   </a>
 </div>
 
+
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brun0balt/brun0balt/output/snake.svg" alt="Snake animation" />
+![snake.gif]<img src="https://raw.githubusercontent.com/brun0balt/brun0balt/output/snake.svg" alt="Snake animation" />
 
 ###
